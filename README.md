@@ -5,6 +5,7 @@
 - [国产化](PC/国产化.md)
 - [常见的注册表操作](PC/reg.md)
 - [常见的批处理操作](PC/cmd.md)
+- [MACOS安装相关](PC/mac.md)
 
 ## 网络
  - [华三常用命令](net/h3c.md)
